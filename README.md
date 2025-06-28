@@ -7,7 +7,7 @@ Simple UI library for Roblox with tabs and smooth animations.
 Load the UI library in your Roblox game with this snippet:
 
 ```lua
-local UILibraryURL = "https://raw.githubusercontent.com/YourGitHubUsername/roblox-ui-library/main/src/UILibrary.lua"
+local UILibraryURL = "https://raw.githubusercontent.com/WinzeTim/Raven/refs/heads/main/ui.lua"
 
 local success, UILibraryCode = pcall(function()
     return game:HttpGet(UILibraryURL)
